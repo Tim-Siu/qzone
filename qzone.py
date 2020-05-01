@@ -13,7 +13,7 @@ pwd = ''
 
 
 def print_time():
-    print(datetime.datetime.now(), end=' ')
+    print(datetime.datetime.now(), end = ' ')
 
 
 def get_gtk(p_skey):
